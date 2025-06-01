@@ -7,7 +7,7 @@
 ### Novelty Options:
 Combine visual heatmaps with natural language explanations to enhance trust in AI.
 
-Apply multilingual textual justification (e.g., Bengali/English).
+Apply multilingual textual justification (Bengali/English).
 
 Compare multiple XAI methods (Grad-CAM, LIME, SHAP).
 
