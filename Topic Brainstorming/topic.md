@@ -13,11 +13,17 @@ Compare multiple XAI methods (Grad-CAM, LIME, SHAP).
 
 Optimize for mobile deployment for use in low-resource clinics.
 
-# 2.CV: Sign language to text(bangla)
-# 3.CV: mental health analysis with academic data/social data 
-# 4.AI-Based Intrusion Detection System using Network Traffic
+# 2. CV: Sign language to text(bangla)
+
+# 3. Mental health analysis with academic data/social data 
+
+# 4. AI-Based Intrusion Detection System using Network Traffic
 ### dataset:
-![alt text](image.png)
+
 ✅ CICIDS 2017
+
 ✅ NSL-KDD
+
 ✅ UNSW-NB15
+
+# 5. Ai medical chatbot for bangla language .
