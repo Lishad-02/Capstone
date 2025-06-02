@@ -27,3 +27,4 @@ Optimize for mobile deployment for use in low-resource clinics.
 ✅ UNSW-NB15
 
 # 5. Ai medical chatbot for bangla language .
+# 5. traffic pattern recognition from google map ss .
