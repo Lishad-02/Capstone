@@ -1,4 +1,4 @@
-## 🛣️ Research Summary: Traffic Congestion Pattern Recognition in Bangladesh
+## Research Summary: Traffic Congestion Pattern Recognition in Bangladesh
 
 | Paper Title | What They Did | Uniqueness |
 |-------------|---------------|------------|
