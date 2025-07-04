@@ -17,9 +17,9 @@ Bdjobs & LinkedIN
 ## Note
 Total Data Need- 400 ( Software Engineer & Data Analyst)
 
-**Software Engineer :** 150 global data for 3 country + 50 entry Bangladesh 
+**Software Engineer :** 150 global data for 3 country + 50 entry for Bangladesh 
 
-**Data Analyst :** 150 global data for 3 country + 50 entry Bangladesh 
+**Data Analyst :** 150 global data for 3 country + 50 entry for Bangladesh 
 
 *Collect differet job type data ( like : remote, in person ,hybrid)
 
