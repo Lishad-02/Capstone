@@ -3,49 +3,10 @@
 ## Architecture-
                     
                                                                  
-User Share his/her interested career / his interest through chat 
-                        ↓ 
- Based on user’s chosen career suggest the no of skills needed  
-(use multi classification model train on dataset) 
-(And dataset build from international job portal) 
-                         Or  
-We can use Bert type model through prompt engineering 
-                         ↓ 
-Skill Declaration by User 
-user will say which skill he/she already has 
-                         ↓ 
-Start evaluation of tech skills 
-                         + 
-Behavioral Assessment (through prompting)  
-                        ↓ 
-Different difficulty level Question Generation (through Prompt Engineering) 
-Difficulty will change based on user ans  
-                        ↓ 
-              Take user Answer 
-                         ↓ 
-Evaluate answers (though prompt engineering technique)  
-How much answer is related to actual answer, not just right or wrong evaluation 
-                        ↓ 
-Give scores for each ques and saved score in Database 
-                        ↓ 
-Give Feedback why answer is not correct or slightly correct  
-              (Give explanation) 
-                        ↓ 
-Suggest Content needs to cover  
-                        ↓ 
-Again, user test his skill after completing the content 
-                        ↓ 
-Continue skill evaluation process 
-                        + 
-Project based evaluation (Through Prompting) 
-                        ↓ 
-Also give an estimated time based on user's progress  
-(Short term forecasting model) / prompting 
-                        ↓ 
-There would be a threshold marks for each skill  
-When the user passes the threshold marks for all the skills our agent will suggest “You are ready 
-for this Job”
-
+<img width="1018" height="275" alt="image" src="https://github.com/user-attachments/assets/2d7660de-f557-4981-a513-13cf5e40f79a" />
+<img width="1009" height="766" alt="image" src="https://github.com/user-attachments/assets/6cce6d17-68e1-4fd1-987c-3293c65c630e" />
+<img width="1013" height="372" alt="image" src="https://github.com/user-attachments/assets/e904dccb-b3e0-4492-995e-ed7036a89871" />
+<img width="1015" height="313" alt="image" src="https://github.com/user-attachments/assets/8a5b74cb-be24-40b5-b477-62340d7d4e41" />
 
 
 
