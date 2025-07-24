@@ -5,7 +5,7 @@ from collections import Counter
 import google.generativeai as genai
 
 
-GEMINI_API_KEY = "AIzaSyDFbNSqfjfU46WF-8LJWcMM_dQeFuiqPWk"  
+GEMINI_API_KEY = ""  
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
