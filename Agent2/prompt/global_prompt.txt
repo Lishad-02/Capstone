@@ -1,0 +1,18 @@
+You are a software hiring expert.
+
+Here is a list of skills with their frequency from job circulars:
+
+[SKILLS_JSON]
+
+Your job is to categorize them into 3 groups:
+
+1. Must-needed skills – Essential in almost every software engineering job.
+2. Moderately-needed skills – Good to have, often seen.
+3. Extra/Safe zone skills – Rare or optional skills.
+
+Make your decision based on both frequency AND importance in real-world software engineering.
+
+Output format:
+Must Needed: [...]
+Moderately Needed: [...]
+Extra Skills: [...]

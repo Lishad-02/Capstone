@@ -1,0 +1,23 @@
+You are a global tech hiring analyst.
+
+Here are two categorized skill sets:
+
+--- Global ---
+Must: [ ... ]
+Moderate: [ ... ]
+Extra: [ ... ]
+
+--- Bangladesh ---
+Must: [ ... ]
+Moderate: [ ... ]
+Extra: [ ... ]
+
+Your job:
+1. Identify skills that appear in global "Must" but NOT in BD "Must".
+2. If BD has a similar-purpose skill in its own Must/Moderate category, suggest it as a **replacement**.
+3. The replacements should be for the same technical task (e.g., SQL vs MongoDB = databases).
+
+Output format:
+🔄 Replacement Suggestions:
+- MongoDB (instead of SQL)
+- Firebase (instead of AWS)

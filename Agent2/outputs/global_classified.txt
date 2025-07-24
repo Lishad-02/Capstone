@@ -1,0 +1,3 @@
+Must Needed: [Backend: SQL(Database), Python, Java, Javascript,  Frontend: React,  DevOps: Docker, Git,  Other: API,  Leadership]
+Moderately Needed: [Backend: Node.js,  FastAPI,  Laravel,  Spring,  Frontend: Angular, ReactJS, Next.js,  Database: MongoDB,  DevOps: AWS, Azure,  Other: RESTful,  SDLC]
+Extra Skills: [Backend:  PHP,  Flask,  Groovy,  Frontend: jQuery,  Vue,  Database: PostgreSQL, MySQL,  DevOps:  Linux,  Other:  Machine Learning,  Data Structures]

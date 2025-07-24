@@ -1,0 +1,6 @@
+Replacement Suggestions:
+- Spring Boot (instead of Java)
+- Node.js (instead of Javascript)
+- Docker (instead of Git)
+- MySQL (instead of SQL)
+- Angular (instead of React)

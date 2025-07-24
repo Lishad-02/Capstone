@@ -1,0 +1,3 @@
+Must Needed: [Backend: Java (17), Python (15), Javascript (20), Spring Boot (6),  Databases: SQL (9), Frontend: React (11),  DevOps: Git (19), Agile (16)]
+Moderately Needed: [Backend: Node.js (8),  Frontend: HTML (7), CSS (7), Testing: Testing (6), Databases:  MySQL (4), DevOps:  Docker (3), CI/CD (5)]
+Extra Skills: [Backend:  C# (9),  Frontend: Angular (4),  Databases: MongoDB (3), DevOps: Kubernetes (4),  Specific Technologies:  Workday Finance Procurement (5)]
